@@ -1,24 +1,26 @@
 {
-  "name": "ember-cli-document-title-northm",
-  "version": "0.0.0-development",
-  "description": "Adding document title functionality to your ember app",
+  "name": "@surkus/ember-cli-document-title",
+  "version": "1.0.0",
+  "description": "Adding document title and meta functionality to your ember app",
   "keywords": [
-    "ember-addon"
+    "ember-addon",
+    "fastboot",
+    "page-title",
+    "meta"
   ],
-  "homepage": "https://github.com/mike-north/ember-cli-document-title-northm",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com/surkus/ember-cli-document-title"
+  },
   "bugs": {
-    "url": "https://github.com/mike-north/ember-cli-document-title-northm/issues"
+    "url": "https://github.com/surkus/ember-cli-document-title/issues"
   },
   "license": "MIT",
-  "author": "Mike North <michael.l.north@gmail.com> (https://mike.works)",
+  "author": "Surkus Engineering <engineering@surkus.com> (https://surkus.com)",
   "main": "index.js",
   "directories": {
     "doc": "doc",
     "test": "tests"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/mike-north/ember-cli-document-title-northm.git"
   },
   "scripts": {
     "build": "ember build",
