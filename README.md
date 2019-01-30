@@ -1,17 +1,13 @@
-# ember-cli-document-title-northm [![Build Status](https://travis-ci.org/mike-north/ember-cli-document-title-northm.svg?branch=master)](https://travis-ci.org/mike-north/ember-cli-document-title-northm) [![Ember Observer Score](http://emberobserver.com/badges/ember-cli-document-title.svg)](http://emberobserver.com/addons/ember-cli-document-title)
+# @surkus/ember-cli-document-title [![Build Status](https://travis-ci.org/surkus/ember-cli-document-title.svg?branch=master)](https://travis-ci.org/surkus/ember-cli-document-title.svg?branch=master)
 
-This addon adds sane `document.title` integration to your ember app. **It is a fork of [kimroen/ember-cli-document-title](https://github.com/kimroen/ember-cli-document-title), which is no longer regularly updated**. If `ember-cli-document-title` once again maintained, this package will be deprecated and retired.
-
-Originally based on [this gist by @machty](https://gist.github.com/machty/8413411), and since improved upon by many fabulous contributors.
-
-Tested to work with Ember 1.13.13 and up.
+This was originally written by [kimroen](https://github.com/kimroen/ember-cli-document-title) and has since been upgraded to work with Ember CLI >= 3.4. We at Surkus are big fans of Ember and have taken over abandon projects. We stay up to date with the latest Ember builds and as such need these addons updated quickly.
 
 ## Install
 
 Install by running
 
 ```
-ember install ember-cli-document-title-northm
+ember install @surkus/ember-cli-document-title
 ```
 
 ## So, how does this work?
